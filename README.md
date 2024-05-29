@@ -17,7 +17,7 @@ Proyek ini adalah sistem manajemen jadwal dan absensi untuk mahasiswa dan dosen.
 
 3. **Install dependencies:**
     ```bash
-    npm install
+    go mod tidy
     ```
 
 4. **Jalankan proyek:**
